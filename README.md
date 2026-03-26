@@ -1,29 +1,18 @@
-<h1 align="center">Hi 👋, I'm devopsenqineer</h1>
-<h3 align="center">thinking. creating. deploying. building. destroying infrastructure.</h3>
+# 👋 I'm salad1n. Creating the Sovereign Cloud Layer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsenqineer&label=Profile%20views&color=0e75b6&style=flat" alt="devopsenqineer" /> </p>
+> **Founder of EuroOpenCost** | **Infrastructure Architect** | **Go Developer**
 
-- 🔭 I’m currently working on **automation**
+I am building the financial and sovereign guardrails for the European cloud economy. My mission is to bridge the gap between high-performance cloud infrastructure and absolute data sovereignty. 
 
-- 🌱 I’m currently learning **terraform and azure**
+### 🛠 The Stack
+* **Languages:** Go (Core Engine), TypeScript (Dashboard), HCL (Terraform)
+* **Focus:** Cloud FinOps, AI-native Infrastructure Brokerage, Model Context Protocol (MCP)
+* **Aesthetics:** Minimalist, Authoritative, Sovereign
 
-- 📝 I regularly write articles on [https://devopsenqineer.github.io/blog/](https://devopsenqineer.github.io/blog/)
+### 🚀 Projects
+* **[EuroOpenCost](https://github.com/euroopencost):** The open-source engine for autonomous cloud cost enforcement.
+* **OpenCostAgent:** An AI-native agent designed to kill cloud bloat and US-lock-in.
 
-- 💬 Ask me about **ansible**
-
-- 📄 Know about my experiences [https://devopsenqineer.github.io/blog/about/](https://devopsenqineer.github.io/blog/about/)
-
-- ⚡ Fun fact **i love kebab.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devopsenqineer&show_icons=true&locale=en&layout=compact" alt="devopsenqineer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsenqineer&show_icons=true&locale=en" alt="devopsenqineer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devopsenqineer&" alt="devopsenqineer" /></p>
+### 🌐 Connect
+* **Blog:** [salad1n.dev](https://salad1n.dev/)
+* **Vision:** "Automate your sovereignty. Do not let foreign servers dictate your budget."
