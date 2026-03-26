@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=salad1n-dev&label=Profile%20Views&color=002068&style=flat-square" alt="salad1n-dev" />
+    <img src="https://komarev.com/ghpvc/?username=salad1n-dev&label=Sovereign%20Visits&color=002068&style=flat-square&base=1500" alt="salad1n-dev Profile Views" />
     <img src="https://img.shields.io/github/followers/salad1n-dev?label=Network&style=flat-square&color=dfed1a&labelColor=002068" alt="Followers" />
   </p>
 </div>
@@ -38,7 +38,7 @@ I specialize in building automation for complex cloud environments. Currently, m
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics (Fixed Links)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salad1n-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=002068&hide_border=true" alt="Top Languages" />
@@ -53,4 +53,11 @@ I specialize in building automation for complex cloud environments. Currently, m
 ### ⚡ Directives & Principles
 
 * **Precision:** Infrastructure as Code should be as reliable as a Swiss watch.
-*
+* **Sovereignty:** Keeping control over data and costs in the EU ecosystem.
+* **Simplicity:** Building tools that solve problems, not create new ones.
+
+<p align="right">
+  <a href="https://salad1n.dev">
+    <img src="https://img.shields.io/badge/Connect-salad1n.dev-002068?style=for-the-badge&logo=ghost&logoColor=white" />
+  </a>
+</p>
